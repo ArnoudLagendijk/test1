@@ -1,5 +1,5 @@
 test
 hallo
 
-dit zijn twee regelS die zijn toegevoegd
+dit zijn twee REGELS die zijn toegevoegd
 en nog een
