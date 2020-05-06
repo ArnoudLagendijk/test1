@@ -1,2 +1,2 @@
 for i in [1,2,3,4,10]:
-    print(i)
+    print(i*10)
