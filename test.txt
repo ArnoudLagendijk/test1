@@ -3,3 +3,5 @@ hallo
 
 dit zijn twee REGELS die zijn toegevoegd
 en nog een
+
+dictsort
